@@ -4,7 +4,6 @@
 
 **TL;DR** — You've written the perfect email before, and now just can't find it. Commonplace remembers it for you, understands the context, and helps you write the next one faster without starting from scratch.
 
----
 
 ## The original idea
 
